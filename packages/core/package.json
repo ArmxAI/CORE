@@ -1,0 +1,8 @@
+{
+  "name": "@armx/core",
+  "type": "commonjs",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  }
+}

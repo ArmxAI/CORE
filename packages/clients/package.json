@@ -1,0 +1,11 @@
+{
+  "name": "@armx/clients",
+  "type": "commonjs",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "dependencies": {
+    "undici": "^6.19.8"
+  }
+}
